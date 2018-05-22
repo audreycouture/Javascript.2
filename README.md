@@ -55,9 +55,9 @@ B] EXERCICE CALCULETTE
 
 Aller sur les liens rawgit suivant :
 
-https://cdn.rawgit.com/Maxmala/Javascript.2/0890664f/Exercice%20de%20chauffe/index.html
+https://cdn.rawgit.com/audreycouture/Javascript.2/ce592343/Exercice%20de%20chauffe/index.html
 
-https://cdn.rawgit.com/Maxmala/Javascript.2/d8d55d2a/westcoastcalculatrice/index.html
+https://cdn.rawgit.com/audreycouture/Javascript.2/ce592343/westcoastcalculatrice/index.html
 
 
 ## Test en local:
