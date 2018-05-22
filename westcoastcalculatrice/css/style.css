@@ -9,7 +9,15 @@
 @import url(https://fonts.googleapis.com/css?family=Monoton);
 
 
-body { background: #000; color: #fff; position: relative;}
+body { 
+
+  background: #000;
+  color: #fff;
+  position: relative;
+
+}
+
+
 
 .chrome {
   position: relative;
@@ -154,3 +162,4 @@ input {
     outline: none;
     padding: 0 .325em;
     z-index: 1;   
+  }

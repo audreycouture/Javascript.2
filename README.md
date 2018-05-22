@@ -1,3 +1,4 @@
+![alt tag](images/img-marseille-3.png)
 
 JAVASCRIPT.2
 -------------
@@ -59,7 +60,9 @@ https://cdn.rawgit.com/Maxmala/Javascript.2/0890664f/Exercice%20de%20chauffe/ind
 https://cdn.rawgit.com/Maxmala/Javascript.2/d8d55d2a/westcoastcalculatrice/index.html
 
 
+## Test en local:
 
+Ouvrir les fichiers index.html ds dossiers "Exercice de chauffe" et "westcoastcalculatrice"
 
 
 
@@ -68,8 +71,6 @@ https://cdn.rawgit.com/Maxmala/Javascript.2/d8d55d2a/westcoastcalculatrice/index
 Exercixes de chauffes tous ok
 Calculette fonctionelle et un peu pimpé ! 
 
-
-A vous de voir !
 
 
 Merci pour la correction ! 
